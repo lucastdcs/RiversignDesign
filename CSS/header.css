@@ -1,0 +1,16 @@
+.main-header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100px;
+  background-color: #00243b;
+}
+
+.logo {
+  width: 144px;
+  height: 148px;
+}
+
+.h1_orange {
+  color: #ff3300;
+}

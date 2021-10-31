@@ -1,0 +1,13 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #00405f;
+  font-family: Poppins;
+  font-style: normal;
+  display: grid;
+  grid-template-columns: 1fr;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 35px;
+  color: #ffff;
+}

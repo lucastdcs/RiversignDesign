@@ -1,0 +1,44 @@
+.session1 {
+  width: 1200px;
+  height: 680px;
+  background-color: rgba(0, 36, 59, 0.74);
+  margin-top: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 11px;
+}
+
+.content_one {
+  display: flex;
+}
+.compliments {
+  position: relative;
+  text-align: start;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+  margin-left: 750px;
+  margin-right: 20px;
+  margin-top: 220px;
+  margin-bottom: 230px;
+  z-index: 1;
+}
+
+.img1 {
+  position: absolute;
+  width: 700px;
+  height: 760px;
+  max-width: auto;
+  min-width: auto;
+  margin-right: 772px;
+  margin-left: -130px;
+  margin-top: -25px;
+  z-index: 0;
+}
+
+.img2 {
+  position: absolute;
+  margin-left: 130px;
+  margin-right: 500px;
+  margin-top: -60px;
+  width: 620px;
+  height: 777px;
+}
